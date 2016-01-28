@@ -1,0 +1,11 @@
+commit cf6256e88064289ece0b2f474d519f7e5121015c
+Author: edugithub <bf_eduado@yahoo.es>
+Date:   Thu Jan 28 23:36:02 2016 +0100
+
+    creo la clase Aplicacion vacía
+
+commit 15e8d154698fbd123a0c618d6691b3b7075c68ba
+Author: edugithub <bf_eduado@yahoo.es>
+Date:   Thu Jan 28 23:32:43 2016 +0100
+
+    inicio de proyecto maven
